@@ -1,0 +1,17 @@
+{
+  "appId": "om.akmoman.bilal.attendance",
+  "appName": "رصد الغياب - مدرسة بلال",
+  "webDir": "www",
+  "server": {
+    "url": "https://akmoman.github.io/bilal2/",
+    "cleartext": false,
+    "allowNavigation": ["akmoman.github.io"],
+    "errorPath": "offline.html"
+  },
+  "ios": {
+    "contentInset": "automatic"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
